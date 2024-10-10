@@ -1,0 +1,50 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+h1 {
+  margin-bottom: 20px;
+  color: #4a90e2;
+}
+
+.score-meter-container {
+  margin-bottom: 20px;
+}
+
+.input-container {
+  display: flex;
+  align-items: center;
+}
+
+.score-input {
+  width: 60px;
+  padding: 5px;
+  border: 1px solid #4a90e2;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+.update-button {
+  padding: 5px 10px;
+  background-color: #4a90e2;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.update-button:hover {
+  background-color: #357ab8;
+}
+
+svg {
+  display: block;
+  margin: auto;
+}
