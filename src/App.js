@@ -1,12 +1,12 @@
 import React, { useState } from 'react';
 import ScoreMeter from './ScoreMeter';
-import './App.css'; // Add this CSS file for styling
+import './App.css'; 
 
 const App = () => {
-  const [score, setScore] = useState(75); // Default score
+  const [score, setScore] = useState(75); 
 
   const handleInputChange = (e) => {
-    const value = Math.min(100, Math.max(0, e.target.value)); // Ensure score is between 0 and 100
+    const value = Math.min(100, Math.max(0, e.target.value)); 
     setScore(value);
   };
 
