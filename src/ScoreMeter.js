@@ -2,13 +2,13 @@ import React from 'react';
 import './ScoreMeter.css';
 
 const ScoreMeter = ({ score }) => {
-  const radius = 50; // Radius of the circle
-  const strokeWidth = 10; // Width of the stroke
-  const circumference = Math.PI * radius; // Circumference for half circle
-  const offset = circumference - (score / 100) * circumference; // Calculate the offset
+  const radius = 50; 
+  const strokeWidth = 10;
+  const circumference = Math.PI * radius; 
+  const offset = circumference - (score / 100) * circumference; 
 
   return (
-    <svg width="120" height="60"> {/* Adjust height for half circle */}
+    <svg width="120" height="60"> 
       <path
         d={`M 10 60 A 50 50 0 0 1 110 60`}
         stroke="lightgray"
