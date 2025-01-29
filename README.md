@@ -11,3 +11,5 @@ A dynamic and interactive React application built with **Create React App** to t
 ## Demo :camera:
 
 ![Demo Screenshot](https://github.com/kourosh07/score-meter/blob/main/Screenshot%202024-10-11%20173623.png)
+
+## Getting Started :rocket:
