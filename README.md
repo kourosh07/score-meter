@@ -27,3 +27,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
    git clone https://github.com/kourosh07/score-meter.git
 
 ##
+
+Best Regards :heart:
