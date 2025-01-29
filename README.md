@@ -15,3 +15,5 @@ A dynamic and interactive React application built with **Create React App** to t
 ## Getting Started :rocket:
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Follow the steps below to set up and run the project locally.
+
+### Prerequisites
