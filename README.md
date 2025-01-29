@@ -21,3 +21,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Node.js and npm installed on your machine.
 
 ### Installation
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/kourosh07/score-meter.git
