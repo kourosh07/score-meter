@@ -13,3 +13,5 @@ A dynamic and interactive React application built with **Create React App** to t
 ![Demo Screenshot](https://github.com/kourosh07/score-meter/blob/main/Screenshot%202024-10-11%20173623.png)
 
 ## Getting Started :rocket:
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Follow the steps below to set up and run the project locally.
